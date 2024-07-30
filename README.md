@@ -10,8 +10,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -29,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/mangentemoncarlo/blog-card)
-- Live Site URL: [Vercel](https://responsive-product-card-component.vercel.app/)
+- Live Site URL: [Vercel](https://blog-card-one-vert.vercel.app/)
 
 ## My process
 
